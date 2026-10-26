@@ -4,7 +4,6 @@ Electronic engineering student based in Trento, Italy. This repository indexes s
 
 ## University projects
 
-- [Synthesis of Quantum Transducers](https://4137314.github.io/projects/bachelor-thesis/) — bachelor thesis on synthesis in a Gaussian quasi-linear gauge-covariant regime. [Source](https://github.com/4137314/bachelor-thesis)
 - [RISC-V CPU core](https://4137314.github.io/projects/risc-v/) — VHDL RV32IM/Zicsr processor with single-cycle and pipelined implementations. [Source](https://github.com/4137314/RISC-V)
 - [Runtime-reconfigurable CGRA](https://4137314.github.io/projects/ald-cgra/) — FPGA processing-element array with host software and emulator. [Source](https://github.com/4137314/ald-cgra)
 - [RP2040 telemetry logger](https://4137314.github.io/projects/ppse-firmware/) — firmware for GPS and environmental telemetry. [Source](https://github.com/4137314/ppse-lab-firmware)
