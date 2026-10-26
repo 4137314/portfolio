@@ -12,6 +12,7 @@ Electronic engineering student based in Trento, Italy. This repository indexes s
 ## Personal projects
 
 - [Lean synthesis project](https://4137314.github.io/projects/synthesis/) — typed engineering models and machine-checked proofs. [Source](https://github.com/4137314/synthesis)
+- [Cerebro](https://4137314.github.io/projects/cerebro/) — a plain-text mathematics knowledge base with reproducible Org-mode workflows and parametric LaTeX exports. [Source](https://github.com/4137314/cerebro)
 - [Terminal retro games](https://4137314.github.io/projects/retro-games/) — classic games implemented in C and ncurses. [Source](https://github.com/4137314/retro-games)
 
 ## Engineering, DevOps & systems
