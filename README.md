@@ -20,4 +20,4 @@ Electronic engineering student based in Trento, Italy. This repository indexes s
 - [NixOS configuration](https://4137314.github.io/projects/nixos-config/) — declarative workstation and local NAS configuration. [Source](https://github.com/4137314/nixos-config)
 - [HackerOne bug bounty workspace](https://4137314.github.io/projects/hack-workspace/) — reproducible, scope-aware tooling for authorized programs. [Source](https://github.com/4137314/hack-workspace)
 
-Contact: [mat03.dev@gmail.com](mailto:mat03.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mattia-f-402062447)
+Contact: [mattia.fait.eng@gmail.com](mailto:mattia.fait.eng@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mattia-f-402062447)
